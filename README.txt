@@ -10,8 +10,12 @@ ISBN：978-1-84951-812-3
     
 
 Chapter01   Storing Data on Android
-
-
+    01. SharedPreferencesExample                        ==> SharedPreferences 的使用示例
+    02. SharedPreferencesExample2                       ==> SharedPreferences 的应用场景示例
+    03. InternalStorageExample                          ==> 使用 Context.openFileOutput() 方法保存数据
+    04. InternalStorageExample2                         ==> 使用 Context.openFileInput() 读取 Context.openFileOutput() 存储的数据
+    05. ExternalStorageExample                          ==> 将数据存储在外部存储器中
+    06. 
 Chapter02   Using a SQLite Database
 
 
